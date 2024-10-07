@@ -1,4 +1,4 @@
-/*
+/**
  *  @module p5.sound
  *  @submodule p5.sound
  *  @for p5.sound
